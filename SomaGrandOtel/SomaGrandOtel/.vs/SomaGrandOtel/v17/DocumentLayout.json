@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\entity\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\entity\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\entity\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\entity\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\entity\\oda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\entity\\oda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\entity\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\entity\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\bl\\yoneticiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\bl\\yoneticiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\bl\\rezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\bl\\rezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\bl\\odaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\bl\\odaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\bl\\musteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\bl\\musteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\bl\\islemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\bl\\islemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\dal\\yoneticidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\dal\\yoneticidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\dal\\rezervasyondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\dal\\rezervasyondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\dal\\odadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\dal\\odadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|c:\\users\\monster\\downloads\\somagrandotel\\somagrandotel\\somagrandotel\\dal\\musteridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\dal\\musteridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\dal\\islemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\dal\\islemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\dal\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\dal\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\yoneticiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\yoneticiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\yoneticiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\yoneticiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\rezervasyonlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\rezervasyonlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\rezervasyonlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\rezervasyonlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\rezervasyonlar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\rezervasyonlar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\musteriler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\musteriler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\anasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\anasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\giris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\giris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\yoneticiler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\yoneticiler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\sayfalar\\odalar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\sayfalar\\odalar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\somagrandotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D99C5A-09B9-4B1E-BFD9-9CD821440566}|SomaGrandOtel\\SomaGrandOtel.csproj|solutionrelative:somagrandotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IslemService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\BL\\IslemService.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\BL\\IslemService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\BL\\IslemService.cs",
+              "RelativeToolTip": "SomaGrandOtel\\BL\\IslemService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusteriService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\BL\\MusteriService.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\BL\\MusteriService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\BL\\MusteriService.cs",
+              "RelativeToolTip": "SomaGrandOtel\\BL\\MusteriService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OdaService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\BL\\OdaService.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\BL\\OdaService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\BL\\OdaService.cs",
+              "RelativeToolTip": "SomaGrandOtel\\BL\\OdaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RezervasyonService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\BL\\RezervasyonService.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\BL\\RezervasyonService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\BL\\RezervasyonService.cs",
+              "RelativeToolTip": "SomaGrandOtel\\BL\\RezervasyonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YoneticiService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\BL\\YoneticiService.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\BL\\YoneticiService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\BL\\YoneticiService.cs",
+              "RelativeToolTip": "SomaGrandOtel\\BL\\YoneticiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Entity\\Musteri.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Entity\\Musteri.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Entity\\Musteri.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Entity\\Musteri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Oda.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Entity\\Oda.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Entity\\Oda.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Entity\\Oda.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Entity\\Oda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rezervasyon.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Entity\\Rezervasyon.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Entity\\Rezervasyon.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Entity\\Rezervasyon.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Entity\\Rezervasyon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Yonetici.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Entity\\Yonetici.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Entity\\Yonetici.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Entity\\Yonetici.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Entity\\Yonetici.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RezervasyonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\RezervasyonDAL.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\DAL\\RezervasyonDAL.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\RezervasyonDAL.cs",
+              "RelativeToolTip": "SomaGrandOtel\\DAL\\RezervasyonDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YoneticiDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\YoneticiDAL.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\DAL\\YoneticiDAL.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\YoneticiDAL.cs",
+              "RelativeToolTip": "SomaGrandOtel\\DAL\\YoneticiDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OdaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\OdaDAL.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\DAL\\OdaDAL.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\OdaDAL.cs",
+              "RelativeToolTip": "SomaGrandOtel\\DAL\\OdaDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MusteriDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\MusteriDAL.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\DAL\\MusteriDAL.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\MusteriDAL.cs",
+              "RelativeToolTip": "SomaGrandOtel\\DAL\\MusteriDAL.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA9wDoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IslemDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\IslemDAL.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\DAL\\IslemDAL.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\IslemDAL.cs",
+              "RelativeToolTip": "SomaGrandOtel\\DAL\\IslemDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\dbBaglanti.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\DAL\\dbBaglanti.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\DAL\\dbBaglanti.cs",
+              "RelativeToolTip": "SomaGrandOtel\\DAL\\dbBaglanti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Yoneticiler.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Yoneticiler.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Yoneticiler.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Yoneticiler.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Yoneticiler.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAQwJ0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Musteriler.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Musteriler.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Musteriler.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Musteriler.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Musteriler.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAKsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-07T22:27:50.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Anasayfa.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Anasayfa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-07T22:27:50.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Odalar.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Odalar.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Odalar.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Odalar.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Odalar.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAqwGwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-07T22:27:50.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Odalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Odalar.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Odalar.cs",
+              "ToolTip": "C:\\Users\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Odalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Odalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-07T22:27:50.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Musteriler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Musteriler.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Musteriler.cs",
+              "ToolTip": "C:\\Users\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Musteriler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Musteriler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-07T22:27:50.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Yoneticiler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Yoneticiler.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Yoneticiler.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Yoneticiler.cs [Design]",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Yoneticiler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.457Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Rezervasyonlar.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Rezervasyonlar.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Rezervasyonlar.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Rezervasyonlar.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Rezervasyonlar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-07T22:27:50.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Giris.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Giris.cs",
+              "ToolTip": "C:\\Users\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-07T22:27:50.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Giris.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Giris.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Giris.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Giris.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-07T22:27:50.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-07T22:27:50.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Rezervasyonlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Rezervasyonlar.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Rezervasyonlar.cs",
+              "ToolTip": "C:\\Users\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Rezervasyonlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Rezervasyonlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-07T22:27:50.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Rezervasyonlar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Rezervasyonlar.Designer.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Rezervasyonlar.Designer.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Rezervasyonlar.Designer.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Rezervasyonlar.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAJ4BAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-02-07T22:27:50.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Anasayfa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Anasayfa.Designer.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Anasayfa.Designer.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Anasayfa.Designer.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Anasayfa.Designer.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAhwOcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-02-07T22:27:50.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Musteriler.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Musteriler.Designer.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Musteriler.Designer.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Musteriler.Designer.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Musteriler.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-02-07T22:27:50.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Giris.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Giris.Designer.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Giris.Designer.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Giris.Designer.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Giris.Designer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAhwMgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-02-07T22:27:50.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Yoneticiler.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Yoneticiler.Designer.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Yoneticiler.Designer.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Yoneticiler.Designer.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Yoneticiler.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwC8BAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Odalar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Odalar.Designer.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Sayfalar\\Odalar.Designer.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Sayfalar\\Odalar.Designer.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Sayfalar\\Odalar.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwGABAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-02-07T22:27:50.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Program.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Program.cs",
+              "RelativeToolTip": "SomaGrandOtel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:27:50.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Downloads\\SomaGrandOtel\\SomaGrandOtel\\SomaGrandOtel\\Form1.cs",
+              "RelativeDocumentMoniker": "SomaGrandOtel\\Form1.cs",
+              "ToolTip": "C:\\Users\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\emre0\\source\\repos\\SomaGrandOtel\\SomaGrandOtel\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-07T22:27:50.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
